@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+<!--    跳转界面-->
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="354dp"
+        android:layout_height="272dp"
+        android:src="@drawable/zhu" />
+    <TextView
+        android:id="@+id/txt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:padding="10dp"
+        android:text="夜间九点至十一点，属亥时。夜深人静，能听见猪拱槽的声音，于是称作“亥猪”"
+        android:textSize="25sp" />
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="84dp"
+        android:layout_height="37dp"
+        android:layout_marginLeft="250dp"
+        android:layout_marginTop="40dp"
+        android:background="#FFC0CB"
+        android:text="返回" />
+
+</LinearLayout>

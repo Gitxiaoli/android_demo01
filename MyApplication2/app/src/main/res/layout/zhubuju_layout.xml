@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="生肖查询"
+        android:textColor="#458"
+        android:gravity="center"
+        android:layout_marginTop="70dp"
+        android:layout_marginBottom="40dp"
+        android:textSize="30sp"
+        android:entries="@array/shengxiao" />
+    <TextView
+        android:id="@+id/xiao"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="选择您的生肖："
+        android:layout_marginLeft="20dp"
+        android:textSize="25sp"/>
+<!--    下拉菜单-->
+    <Spinner
+        android:id="@+id/sipnner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:entries="@array/shengxiao">
+    </Spinner>
+    <Button
+        android:id="@+id/btn"
+        android:layout_width="134dp"
+        android:layout_height="37dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="50dp"
+        android:background="#CDCDD3"
+        android:text="查看" />
+
+</LinearLayout>

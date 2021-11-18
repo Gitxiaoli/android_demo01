@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/software/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/jiemianer_layout.xml" value="0.264" />
+        <entry key="..\:/software/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/jiemianer_listview_adapter.xml" value="0.17291666666666666" />
+        <entry key="..\:/software/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/listview_adapter.xml" value="0.17291666666666666" />
+        <entry key="..\:/software/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/listview_adapter02.xml" value="0.17291666666666666" />
+        <entry key="..\:/software/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/main.xml" value="0.1734375" />
+        <entry key="..\:/software/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/wexin_tongxunjiemian.xml" value="0.1" />
+        <entry key="..\:/software/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/zhubuju_layout.xml" value="0.17291666666666666" />
+        <entry key="..\:/software/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/zhujiemian_listview_adapter02.xml" value="0.17291666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
